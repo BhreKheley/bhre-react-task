@@ -1,4 +1,3 @@
-// src/DataFetcher.js
 import React, { useState, useEffect } from 'react';
 import './DataFetcher.css';
 
